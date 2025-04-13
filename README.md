@@ -1,4 +1,4 @@
-# 👋 ¡Hola!  Ferran
+# 👋 ¡Hola! Sòc Ferran
 
 🎓 **Tècnic Superior en Salut Ambiental | Subsampling & Logistic Manager en laboratori de Microbiologia | Futur desenvolupador d'aplicacions web**  
 📍 **Ubicació**: Cullera, Comunitat Valenciana, Espanya  
